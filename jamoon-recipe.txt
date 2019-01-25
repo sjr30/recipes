@@ -1,0 +1,9 @@
+Ingredients:
+ - gets jamoon mix
+ - milk
+ - sugar
+ - oil
+ - cardamom
+
+Directions:
+ 1. Follow the instructions on the gits box
